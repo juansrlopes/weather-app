@@ -1,5 +1,5 @@
 
-# React app for checking weather
+React app for checking weather
 
 =======
 
